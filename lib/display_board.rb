@@ -7,5 +7,5 @@ def display_board(board = "")
 "\n#{rows}
  #{board[3]=" "} | #{board[4]=" "} | #{board[5]} "+
 "\n#{rows}
- #{board[6]=" "} | #{board[7]=" "} | #{board[8]=" "} "
+ #{board[6]=" "} | #{board[7]=" "} | #{board[8]} "
 end
