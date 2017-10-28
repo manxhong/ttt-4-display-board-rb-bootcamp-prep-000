@@ -3,7 +3,7 @@
 
 def display_board(board = "")
   rows = "-----------";
-  puts " #{board[0]} | #{board[1]} | #{board[2]=" "} "+
+  puts " #{board[0]} | #{board[1]} | #{board[2]} "+
 "\n#{rows}
  #{board[3]=" "} | #{board[4]=" "} | #{board[5]=" "} "+
 "\n#{rows}
