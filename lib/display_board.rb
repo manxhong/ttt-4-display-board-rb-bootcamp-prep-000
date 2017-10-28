@@ -2,9 +2,8 @@
 # out the current state.
 
 def display_board(board = "")
-  cells = "   |   |   "
   rows = "-----------";
-  puts "#{cells}
+  puts " #{board[0]=" "} |
 #{rows}
 #{cells}
 #{rows}
