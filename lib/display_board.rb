@@ -4,7 +4,11 @@
 def display_board(board = "")
   cells = "   |   |   "
   rows = "-----------";
-  puts "#{cells}/n#{rows}/n#{cells}/n#{rows}/n#{cells}"
+  puts "#{cells}
+  #{rows}
+  #{cells}
+  #{rows}
+  #{cells}"
 end
 
 display_board();
