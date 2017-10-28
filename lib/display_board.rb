@@ -10,5 +10,3 @@ def display_board(board = "")
 #{rows}
 #{cells}"
 end
-
-display_board();
