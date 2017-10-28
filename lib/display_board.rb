@@ -3,5 +3,5 @@
 var cells = "   |   |   "
 var rows = "-----------";
 def display_board(board)
-  puts "#{cells}/n#{rows}/n#{cells}/n#{rows}/n#{celss}"
+  puts "#{cells}/n#{rows}/n#{cells}/n#{rows}/n#{cells}"
 end
