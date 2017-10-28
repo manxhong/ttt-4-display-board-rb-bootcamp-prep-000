@@ -3,9 +3,9 @@
 
 def display_board(board = "")
   rows = "-----------";
-  puts " #{board[0]=" "} | #{board[1]=" "} | #{board[2]=" "}
-#{rows}
- #{board[3]=" "} | #{board[4]=" "} | #{board[5]=" "} 
-#{rows}
+  puts " #{board[0]=" "} | #{board[1]=" "} | #{board[2]=" "} "+
+"#{rows}
+ #{board[3]=" "} | #{board[4]=" "} | #{board[5]=" "} "+
+"#{rows}
  #{board[6]=" "} | #{board[7]=" "} | #{board[8]=" "} "
 end
